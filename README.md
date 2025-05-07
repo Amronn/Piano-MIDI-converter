@@ -12,9 +12,9 @@ The Modular Acoustic Piano MIDI Converter converts key and pedal movements from 
   - 8× CNY70 reflective sensors for key press detection
   - MCP3008 ADC for analog-to-digital conversion
 
-![Piano MIDI Converter](images/piano_midi_converter.jpg)
+![Piano MIDI Converter](IMG20241102180949.jpg)
 
-![External Converter Device](images/piano_midi_external_device.jpg)
+![External Converter Device](IMG20250123174727.jpg)
 
 ## 🎼 Features
 - Modular, expandable architecture
